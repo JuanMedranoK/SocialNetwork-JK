@@ -1,0 +1,9 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Services.pdb

@@ -1,0 +1,49 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Procedures.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Form1.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.CommentsControl.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.PostControl.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.AddPost.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.CommentsControl.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Options.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Post.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Principal.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.FriendsControl.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.PostControl.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.User.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Login.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.SingIn.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.RecoverAccount.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Mail.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Mail.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\bin\Debug\Procedures.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.EditUser.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Friends.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.FriendsRequests.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.Events.resources
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Diseño\obj\Debug\Diseño.EventDetails.resources

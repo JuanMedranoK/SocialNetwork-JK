@@ -1,0 +1,10 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\DataBaseProcedure\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\DataBaseProcedure\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\DataBaseProcedure\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\DataBaseProcedure\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\DataBaseProcedure\obj\Debug\DataBaseProcedure.pdb

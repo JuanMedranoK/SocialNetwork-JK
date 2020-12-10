@@ -1,0 +1,6 @@
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\bin\Debug\Mail.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\bin\Debug\Mail.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\obj\Debug\Mail.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Mail\obj\Debug\Mail.pdb

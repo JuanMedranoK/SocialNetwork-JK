@@ -1,0 +1,18 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Procedures.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\Procedures.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\bin\Debug\DataBaseProcedure.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.csproj.CopyComplete
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\TRUE_SYSTEM\Procedures\obj\Debug\Procedures.pdb
